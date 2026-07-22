@@ -16,3 +16,6 @@ desktop.ini
 .idea/
 .vscode/
 .claude/
+
+# Separate project, has its own repo
+crack-detection-pipeline/
